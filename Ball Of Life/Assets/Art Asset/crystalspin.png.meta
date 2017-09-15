@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 4268c1386a943b74e9e5977a04a728e3
+timeCreated: 1472716087
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: crystalspin_0
+    21300002: crystalspin_1
+    21300004: crystalspin_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: crystalspin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 341.33334
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 117, y: 271}
+        - {x: 109, y: 313}
+        - {x: 84, y: 313}
+        - {x: 22, y: 444}
+        - {x: 15, y: 448}
+        - {x: 10, y: 448}
+        - {x: 4, y: 441}
+        - {x: -46, y: 356}
+        - {x: -91, y: 312}
+        - {x: -110, y: 278}
+        - {x: -110, y: 266}
+        - {x: -102, y: 225}
+        - {x: -93, y: 222}
+        - {x: -88, y: 227}
+        - {x: -26, y: 67}
+        - {x: -15, y: 44}
+        - {x: -6, y: 44}
+        - {x: 39, y: 126}
+        - {x: 105, y: 200}
+        - {x: 117, y: 250}
+    - name: crystalspin_1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0
+        width: 341.33334
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 85, y: 245}
+        - {x: 83, y: 277}
+        - {x: 59, y: 275}
+        - {x: -1, y: 403}
+        - {x: -7, y: 407}
+        - {x: -14, y: 407}
+        - {x: -39, y: 367}
+        - {x: -99, y: 261}
+        - {x: -105, y: 270}
+        - {x: -112, y: 278}
+        - {x: -142, y: 242}
+        - {x: -142, y: 199}
+        - {x: -141, y: 186}
+        - {x: -130, y: 182}
+        - {x: -112, y: 198}
+        - {x: -43, y: 6}
+        - {x: -37, y: 3}
+        - {x: -28, y: 3}
+        - {x: 14, y: 86}
+        - {x: 66, y: 167}
+        - {x: 85, y: 213}
+    - name: crystalspin_2
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 0
+        width: 341.33334
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92, y: 243}
+        - {x: 92, y: 252}
+        - {x: 89, y: 260}
+        - {x: 69, y: 292}
+        - {x: 0, y: 442}
+        - {x: -5, y: 446}
+        - {x: -14, y: 446}
+        - {x: -92, y: 314}
+        - {x: -95, y: 326}
+        - {x: -102, y: 331}
+        - {x: -133, y: 292}
+        - {x: -133, y: 254}
+        - {x: -130, y: 224}
+        - {x: -108, y: 217}
+        - {x: -93, y: 175}
+        - {x: -38, y: 42}
+        - {x: -29, y: 42}
+        - {x: -24, y: 44}
+        - {x: 58, y: 211}
+        - {x: 70, y: 187}
+        - {x: 80, y: 191}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

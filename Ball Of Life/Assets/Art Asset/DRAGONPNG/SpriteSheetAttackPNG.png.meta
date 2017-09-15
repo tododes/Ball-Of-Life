@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: aff474c3db104f2418e66ef222c835a2
+timeCreated: 1474381976
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpriteSheetAttackPNG_0
+    21300002: SpriteSheetAttackPNG_1
+    21300004: SpriteSheetAttackPNG_2
+    21300006: SpriteSheetAttackPNG_3
+    21300008: SpriteSheetAttackPNG_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SpriteSheetAttackPNG_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 80}
+        - {x: -66, y: 80}
+        - {x: -72, y: 69}
+        - {x: -79, y: 50}
+        - {x: -79, y: -50}
+        - {x: -72, y: -75}
+        - {x: -62, y: -90}
+        - {x: -7, y: -93}
+        - {x: -14, y: -78}
+        - {x: -16, y: -73}
+        - {x: 15, y: -132}
+        - {x: 24, y: -144}
+        - {x: 29, y: -144}
+        - {x: 29, y: 13}
+        - {x: 0, y: 62}
+    - name: SpriteSheetAttackPNG_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.900024, y: 86}
+        - {x: -74.900024, y: 85}
+        - {x: -77.900024, y: 58}
+        - {x: -77.900024, y: -58}
+        - {x: -73.900024, y: -63}
+        - {x: -28.900024, y: -61}
+        - {x: -19.900024, y: -54}
+        - {x: 15.099976, y: -135}
+        - {x: 16.099976, y: -136}
+        - {x: 23.099976, y: -136}
+        - {x: 44.099976, y: -118}
+        - {x: 46.099976, y: -104}
+        - {x: 46.099976, y: 48}
+        - {x: 11.099976, y: 86}
+    - name: SpriteSheetAttackPNG_2
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.19995, y: -11}
+        - {x: 80.19995, y: 15}
+        - {x: 80.19995, y: 68}
+        - {x: 48.19995, y: 125}
+        - {x: -99.80005, y: 125}
+        - {x: -118.80005, y: 117}
+        - {x: -118.80005, y: 23}
+        - {x: -115.80005, y: 22}
+        - {x: -103.80005, y: -2}
+        - {x: -98.80005, y: -5}
+        - {x: -7.800049, y: -128}
+        - {x: 25.199951, y: -128}
+        - {x: 31.199951, y: -123}
+        - {x: 49.19995, y: -101}
+        - {x: 50.19995, y: -36}
+        - {x: 19.199951, y: 16}
+    - name: SpriteSheetAttackPNG_3
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.700073, y: 190}
+        - {x: -136.70007, y: 157}
+        - {x: -136.70007, y: -50}
+        - {x: -95.70007, y: -112}
+        - {x: 24.299927, y: -112}
+        - {x: 52.299927, y: -89}
+        - {x: 99.29993, y: 181}
+        - {x: 99.29993, y: 190}
+    - name: SpriteSheetAttackPNG_4
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79.6001, y: 205}
+        - {x: -123.6001, y: 194}
+        - {x: -123.6001, y: 51}
+        - {x: -3.6000977, y: -106}
+        - {x: 33.399902, y: -106}
+        - {x: 46.399902, y: -93}
+        - {x: 110.3999, y: 130}
+        - {x: 110.3999, y: 205}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

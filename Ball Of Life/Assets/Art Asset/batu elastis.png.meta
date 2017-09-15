@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 57e773e49a5acaa4f9551048926555d7
+timeCreated: 1472712567
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: batu elastis_0
+    21300002: batu elastis_1
+    21300004: batu elastis_2
+    21300006: batu elastis_3
+    21300008: batu elastis_4
+    21300010: batu elastis_5
+    21300012: batu elastis_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: batu elastis_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 37.5}
+        - {x: -40.5, y: 36.5}
+        - {x: -81.5, y: 5.5}
+        - {x: -82.5, y: -7.5}
+        - {x: -82.5, y: -37.5}
+        - {x: 82.5, y: -37.5}
+        - {x: 82.5, y: -8.5}
+        - {x: 48.5, y: 37.5}
+    - name: batu elastis_1
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.57144, y: 14.5}
+        - {x: -48.42856, y: 14.5}
+        - {x: -77.42856, y: 9.5}
+        - {x: -81.42856, y: -4.5}
+        - {x: -81.42856, y: -39.5}
+        - {x: 77.57144, y: -39.5}
+        - {x: 82.57144, y: -35.5}
+        - {x: 82.57144, y: -20.5}
+        - {x: 65.57144, y: 3.5}
+    - name: batu elastis_2
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -81.35712, y: -0.5}
+        - {x: -81.35712, y: -36.5}
+        - {x: 81.64288, y: -36.5}
+        - {x: 81.64288, y: -4.5}
+        - {x: 64.64288, y: -0.5}
+    - name: batu elastis_3
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.285645, y: -12.5}
+        - {x: -80.285645, y: -34.5}
+        - {x: -68.285645, y: -37.5}
+        - {x: 84.714355, y: -37.5}
+        - {x: 84.714355, y: -12.5}
+    - name: batu elastis_4
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62.785767, y: 1.5}
+        - {x: -67.21423, y: 1.5}
+        - {x: -81.21423, y: -15.5}
+        - {x: -81.21423, y: -34.5}
+        - {x: 81.78577, y: -34.5}
+        - {x: 81.78577, y: -21.5}
+        - {x: 74.78577, y: 0.5}
+    - name: batu elastis_5
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.142822, y: 16.5}
+        - {x: -81.14282, y: 10.5}
+        - {x: -81.14282, y: -37.5}
+        - {x: 82.85718, y: -37.5}
+        - {x: 82.85718, y: -8.5}
+        - {x: 66.85718, y: 16.5}
+    - name: batu elastis_6
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83.07129, y: -13.5}
+        - {x: -83.07129, y: -36.5}
+        - {x: 80.92871, y: -36.5}
+        - {x: 80.92871, y: -6.5}
+        - {x: 74.92871, y: 11.5}
+        - {x: 22.92871, y: 39.5}
+        - {x: -56.07129, y: 39.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

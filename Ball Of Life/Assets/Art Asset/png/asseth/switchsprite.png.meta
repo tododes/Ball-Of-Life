@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: ecb8d1a72b1544b428eb66eadf82e1b0
+timeCreated: 1472725642
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: switchsprite_0
+    21300002: switchsprite_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: switchsprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 298, y: -288}
+        - {x: 297, y: -267}
+        - {x: 293, y: -232}
+        - {x: 286, y: -210}
+        - {x: 280, y: -193}
+        - {x: 274, y: -175}
+        - {x: 251, y: -133}
+        - {x: 239, y: -117}
+        - {x: 222, y: -95}
+        - {x: 189, y: -64}
+        - {x: 169, y: -49}
+        - {x: 154, y: -39}
+        - {x: 131, y: -26}
+        - {x: 100, y: -12}
+        - {x: 67, y: -3}
+        - {x: 41, y: 2}
+        - {x: 29, y: 3}
+        - {x: 29, y: 149}
+        - {x: 51, y: 154}
+        - {x: 65, y: 163}
+        - {x: 75, y: 173}
+        - {x: 82, y: 183}
+        - {x: 77, y: 200}
+        - {x: 65, y: 213}
+        - {x: 46, y: 223}
+        - {x: 32, y: 227}
+        - {x: 19, y: 229}
+        - {x: -13, y: 229}
+        - {x: -26, y: 227}
+        - {x: -51, y: 221}
+        - {x: -65, y: 212}
+        - {x: -75, y: 203}
+        - {x: -80, y: 191}
+        - {x: -78, y: 177}
+        - {x: -65, y: 162}
+        - {x: -46, y: 152}
+        - {x: -29, y: 148}
+        - {x: -29, y: 4}
+        - {x: -54, y: 2}
+        - {x: -89, y: -6}
+        - {x: -120, y: -17}
+        - {x: -149, y: -32}
+        - {x: -167, y: -43}
+        - {x: -191, y: -60}
+        - {x: -206, y: -73}
+        - {x: -234, y: -102}
+        - {x: -246, y: -117}
+        - {x: -270, y: -153}
+        - {x: -283, y: -181}
+        - {x: -290, y: -198}
+        - {x: -297, y: -224}
+        - {x: -301, y: -244}
+        - {x: -303, y: -258}
+        - {x: -305, y: -279}
+        - {x: -308, y: -294}
+        - {x: -308, y: -299}
+        - {x: -304, y: -303}
+        - {x: -36, y: -303}
+        - {x: -35, y: -304}
+        - {x: 298, y: -304}
+        - {x: 301, y: -301}
+        - {x: 301, y: -294}
+      - - {x: -105, y: 3}
+        - {x: -107, y: 1}
+        - {x: -107, y: -1}
+        - {x: -105, y: -3}
+        - {x: -103, y: -3}
+        - {x: -101, y: -1}
+        - {x: -101, y: 1}
+        - {x: -103, y: 3}
+      - - {x: -126, y: 53}
+        - {x: -128, y: 51}
+        - {x: -128, y: 49}
+        - {x: -126, y: 47}
+        - {x: -124, y: 47}
+        - {x: -122, y: 49}
+        - {x: -122, y: 51}
+        - {x: -124, y: 53}
+    - name: switchsprite_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 296, y: -232}
+        - {x: 283, y: -192}
+        - {x: 276, y: -175}
+        - {x: 253, y: -133}
+        - {x: 235, y: -109}
+        - {x: 204, y: -71}
+        - {x: 248, y: -17}
+        - {x: 280, y: 21}
+        - {x: 289, y: 34}
+        - {x: 308, y: 25}
+        - {x: 326, y: 22}
+        - {x: 339, y: 23}
+        - {x: 348, y: 28}
+        - {x: 358, y: 38}
+        - {x: 358, y: 60}
+        - {x: 350, y: 80}
+        - {x: 341, y: 93}
+        - {x: 316, y: 118}
+        - {x: 300, y: 128}
+        - {x: 273, y: 142}
+        - {x: 241, y: 142}
+        - {x: 237, y: 140}
+        - {x: 226, y: 129}
+        - {x: 225, y: 122}
+        - {x: 224, y: 108}
+        - {x: 227, y: 97}
+        - {x: 234, y: 85}
+        - {x: 244, y: 71}
+        - {x: 230, y: 56}
+        - {x: 222, y: 44}
+        - {x: 177, y: -10}
+        - {x: 154, y: -38}
+        - {x: 144, y: -31}
+        - {x: 119, y: -20}
+        - {x: 102, y: -12}
+        - {x: 61, y: 0}
+        - {x: 35, y: 3}
+        - {x: 13, y: 5}
+        - {x: -15, y: 5}
+        - {x: -46, y: 3}
+        - {x: -84, y: -5}
+        - {x: -113, y: -15}
+        - {x: -147, y: -32}
+        - {x: -165, y: -43}
+        - {x: -189, y: -60}
+        - {x: -204, y: -73}
+        - {x: -224, y: -94}
+        - {x: -242, y: -113}
+        - {x: -268, y: -153}
+        - {x: -281, y: -181}
+        - {x: -288, y: -198}
+        - {x: -295, y: -224}
+        - {x: -300, y: -243}
+        - {x: -304, y: -279}
+        - {x: -306, y: -294}
+        - {x: -306, y: -299}
+        - {x: -302, y: -303}
+        - {x: -34, y: -303}
+        - {x: -33, y: -304}
+        - {x: 300, y: -304}
+        - {x: 303, y: -301}
+        - {x: 303, y: -294}
+        - {x: 299, y: -267}
+      - - {x: -103, y: 3}
+        - {x: -105, y: 1}
+        - {x: -105, y: -1}
+        - {x: -103, y: -3}
+        - {x: -101, y: -3}
+        - {x: -99, y: -1}
+        - {x: -99, y: 1}
+        - {x: -101, y: 3}
+      - - {x: -124, y: 53}
+        - {x: -126, y: 51}
+        - {x: -126, y: 49}
+        - {x: -124, y: 47}
+        - {x: -122, y: 47}
+        - {x: -120, y: 49}
+        - {x: -120, y: 51}
+        - {x: -122, y: 53}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
